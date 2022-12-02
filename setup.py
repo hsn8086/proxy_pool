@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='proxy_pool',
     version='1.0.0',
-    packages=['db', 'api', 'test', 'util', 'helper', 'fetcher', 'handler'],
+    packages=[],
     url='',
     license='',
     author='',
